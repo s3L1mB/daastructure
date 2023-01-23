@@ -37,3 +37,43 @@
 - Undo (Word processor)
 
 ---
+
+## Part 2
+
+- Classification
+- Analysis of Algorithm Efficiency
+- Space vs Time
+- Algorithms language agnostic
+
+  - Pseudo code / C++ etc
+
+- [Introduction To Searching Algorithms In C++](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/)
+- [Introduction To Sorting Techniques In C++](https://www.softwaretestinghelp.com/sorting-techniques-in-cpp/)
+- [Algorithms In STL](https://www.softwaretestinghelp.com/algorithms-in-stl/)
+
+### Classification
+
+- Brute Force
+- Divide-and-Conquer
+- Transform-and-Conquer
+- Greedy Technique
+- Dynamic Programming
+
+### Analysis of Algorithm Efficiency
+
+> [Big-O, Little-O, Theta, Omega](https://cathyatseneca.gitbooks.io/data-structures-and-algorithms/content/analysis/notations.html)
+
+- Big $O$, Little $o$
+- Big $\Omega$, Little $\omega$
+- $\Theta$
+
+### Space vs Time
+
+- Same tools
+- Space and Time Trade-Offs
+
+### Tools
+
+- [Algorithm Visualizations 1](https://www.youtube.com/playlist?list=PLlzjt-kuLwlo6QuXHSZCkITkfn9M2yHg1)
+- [Algorithm Visualizations 2](https://gbhat.com/algorithms/selection_sort.html)
+- [ Animation engine for explanatory math videos ](https://github.com/3b1b/manim)
