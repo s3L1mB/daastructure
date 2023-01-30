@@ -30,15 +30,14 @@
   - [Decrease-and-Conquer](https://www.geeksforgeeks.org/decrease-and-conquer/):
     - [Binary Search](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/) of sorted lists
     - [Running time of binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/running-time-of-binary-search)
-  - [Recursion vs Iteration](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)
+- [Recursion vs Iteration](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)
 - [Activity 1](./activity1/README.md)
 
 ---
 
 ## Part 2: Analyses tools
 
-- Math review:
-  - [Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)
+- Math review: [Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)
 - [Big $O$](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 - Tools: [Graphing online](https://www.mathway.com/graph)
 - [Activity 2](./activity2/README.md)
