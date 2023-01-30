@@ -28,6 +28,7 @@
 - Algorithm techniques:
   - [Brute Force](https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/): [Linear Search](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/) of lists
   - [Decrease-and-Conquer](https://www.geeksforgeeks.org/decrease-and-conquer/): [Binary Search](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/) of sorted lists
+  - [Running time of binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/running-time-of-binary-search)
 - [Recursion VS Iteration](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)
 - [Activity 1](./activity1/README.md)
 

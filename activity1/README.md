@@ -1,6 +1,6 @@
 # Activities
 
-## Task 1/4
+## Task 1/5
 
 > Refer to the instruction in [GitHub Workflow](../github.md)
 
@@ -9,18 +9,27 @@
 - Create a repository in GitHub
 - Change remote to point to your repo
 
-## Task 2/4: Brute force
+## Task 2/5: Brute force
 
 - What is the maximum number of steps it would take to perform a linear search on an ordered array of size 100,000?
   > Refer to `./src/search-linear.cpp`
 
-## Task 3: Decrease-and-Conquer
+## Task 3/5: Decrease-and-Conquer
 
 - What is the maximum number of steps it would take to perform a binary search on an ordered array of size 100,000?
 
   > Refer to `./src/search-binary.cpp`
 
-## Task 4: Individual, at home
+## Task 4/5: Quiz
+
+32 teams qualified for the 2014 World Cup. If the names of the teams were arranged in sorted order (an array), how many items in the array would binary search have to examine to find the location of a particular team in the array, in the worst case?
+
+- [] At most, 32.
+- [] At most, 1.
+- [] At most, 6.
+- [] At most, 16.
+
+## Task 5/5: Individual, at home
 
 Refactor the code in `./src/task4.cpp` to use recursion
 
@@ -34,3 +43,4 @@ Refactor the code in `./src/task4.cpp` to use recursion
 - https://cpp.sh/
 - https://www.techiedelight.com/binary-search/
 - https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/
+- https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/e/running-time-of-binary-search

@@ -6,4 +6,5 @@
 - [Space and time Big-O complexities of common algorithms](https://www.bigocheatsheet.com/)
 - [Big-O notation explained by a self-taught programmer](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 - [Big-O is easy to calculate, if you know how](https://justin.abrah.ms/computer-science/how-to-calculate-big-o.html)
+- [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - https://cpp.sh/
