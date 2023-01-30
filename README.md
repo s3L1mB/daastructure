@@ -11,11 +11,11 @@
 
 ## Part 0: Review
 
-- Assignments
+- Course mechanics
   - Activities: Group + Individual (at home),
   - Due before next lecture
-- Review:
   - Approach: We try to present the material in an object-based approach (not OOP), therefore we will not use inheritance etc.s
+- Previous lecture:
   - [Abstract Data Types(ADT)](https://en.wikipedia.org/wiki/Abstract_data_type)
   - [Data Structures](https://en.wikipedia.org/wiki/Data_structure)
   - **Array-based** [Stacks](https://www.softwaretestinghelp.com/stack-in-cpp/)
@@ -23,7 +23,7 @@
 
 ---
 
-## Part 1:Brute Force, Decrease-and-Conquer
+## Part 1: Brute Force, Decrease-and-Conquer
 
 - Algorithm techniques:
   - [Brute Force](https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/): [Linear Search](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/) of lists
