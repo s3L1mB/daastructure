@@ -27,9 +27,10 @@
 
 - Algorithm techniques:
   - [Brute Force](https://www.geeksforgeeks.org/brute-force-approach-and-its-pros-and-cons/): [Linear Search](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/) of lists
-  - [Decrease-and-Conquer](https://www.geeksforgeeks.org/decrease-and-conquer/): [Binary Search](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/) of sorted lists
-  - [Running time of binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/running-time-of-binary-search)
-- [Recursion VS Iteration](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)
+  - [Decrease-and-Conquer](https://www.geeksforgeeks.org/decrease-and-conquer/):
+    - [Binary Search](https://www.softwaretestinghelp.com/searching-algorithms-in-cpp/) of sorted lists
+    - [Running time of binary search](https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/running-time-of-binary-search)
+  - [Recursion vs Iteration](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/)
 - [Activity 1](./activity1/README.md)
 
 ---
@@ -38,7 +39,6 @@
 
 - Math review:
   - [Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)
-  - [Mathematical Induction](https://www.mathsisfun.com/algebra/mathematical-induction.html)
 - [Big $O$](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 - Tools: [Graphing online](https://www.mathway.com/graph)
 - [Activity 2](./activity2/README.md)

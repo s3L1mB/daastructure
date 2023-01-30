@@ -7,4 +7,5 @@
 - [Big-O notation explained by a self-taught programmer](https://justin.abrah.ms/computer-science/big-o-notation-explained.html)
 - [Big-O is easy to calculate, if you know how](https://justin.abrah.ms/computer-science/how-to-calculate-big-o.html)
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
-- https://cpp.sh/
+- [Logarithms](https://www.mathsisfun.com/algebra/logarithms.html)
+- [Mathematical Induction](https://www.mathsisfun.com/algebra/mathematical-induction.html)
