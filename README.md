@@ -26,7 +26,7 @@
 - Week 3
   - Group Activities (Max 9 points)
   - Homework (Individual activities) (Max 9 points)
-  - Peer reviews (Max 7 points)
+  - [Peer reviews (Max 7 points)](./peer-assessment-template.xlsx)
 
 ---
 
