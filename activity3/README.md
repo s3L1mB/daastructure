@@ -7,7 +7,7 @@
 
 ## Task 2:
 
-- The following snippet is from `./src/queue.cpp` lines 8-10. WHat happens if `front`, `rear` and `temp` were not global variables?
+- The following snippet is from `./src/queue.cpp` lines 8-10. What happens if `front`, `rear` and `temp` were not global variables?
 
 ```cpp
 struct node *front = NULL;
@@ -40,7 +40,7 @@ void Insert(int val)
 }
 ```
 
-## Task 4:
+## Task 4: Individual, at home
 
 - Discuss the various operations that can be performed on a linked list. Refer to the following link:
   https://www.softwaretestinghelp.com/linked-list/

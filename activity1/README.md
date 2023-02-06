@@ -44,7 +44,7 @@
     }
 ```
 
-## Task 4
+## Task 4: Individual, at home
 
 - Discuss the complexity analysis of selection sort. Refer to the link below:
   https://www.softwaretestinghelp.com/selection-sort/

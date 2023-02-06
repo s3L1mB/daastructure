@@ -35,8 +35,9 @@
 - Algorithm techniques: **Brute Force**
   - Bubble sort
   - Selection sort
-  - Big $O$ analysis: average case vs worst case
+  - Big $O$ analysis
 - [Activity 1](./activity1/README.md)
+<!-- average case vs worst case -->
 
 ---
 
@@ -44,8 +45,9 @@
 
 - Algorithm techniques: **decrease and conquer**
   - Insertion sort
-  - Big $O$ analysis: average case vs worst case
+  - Big $O$ analysis
 - [Activity 2](./activity2/README.md)
+<!-- average case vs worst case -->
 
 ---
 
