@@ -3,7 +3,7 @@
 ## Task 1
 
 - Refer to the following link. Discuss how bubble sort works:
-  https://opendsa-server.cs.vt.edu/ODSA/Exercises/Sorting/BubsortPRO.html
+  https://opendsa-server.cs.vt.edu/embed/bubblesortAV
 
 ## Task 2
 
