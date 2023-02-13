@@ -14,11 +14,21 @@
 - What is the maximum number of steps it would take to perform a linear search on an ordered array of size 100,000?
   > Refer to `./src/search-linear.cpp`
 
+  The input array is
+5 8 10 13 21 23 25 43 54 75 
+Enter the key that is to be searched:
+[Done] exited with code=null in 52.799 seconds
+
 ## Task 3/5: Decrease-and-Conquer
 
 - What is the maximum number of steps it would take to perform a binary search on an ordered array of size 100,000?
 
   > Refer to `./src/search-binary.cpp`
+
+  The input array is
+21 43 23 54 75 13 5 8 25 10 
+Enter the key to be searched : 
+[Done] exited with code=null in 104.124 seconds
 
 ## Task 4/5: Quiz
 
