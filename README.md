@@ -43,8 +43,6 @@
 
 ## Part 3: Linked Lists & Asymptotic Analysis
 
-- Linked Lists:
-  - [Search an element in a Linked List](https://www.geeksforgeeks.org/search-an-element-in-a-linked-list-iterative-and-recursive/)
-  - [Find Length of a Linked List](https://www.geeksforgeeks.org/find-length-of-a-linked-list-iterative-and-recursive/?ref=lbp)
+- [Linked Lists](https://www.softwaretestinghelp.com/linked-list/)
 - [Asymptotic Analysis and Upper Bounds](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalAsymptotic.html)
 - [Activity 3](./activity3)

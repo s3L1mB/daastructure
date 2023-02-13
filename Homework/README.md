@@ -12,6 +12,8 @@
 - [Quick Sort In C++](https://www.softwaretestinghelp.com/quick-sort/)
 - [Merge Sort In C++](https://www.softwaretestinghelp.com/merge-sort/)
 - [Hash Table In C++](https://www.softwaretestinghelp.com/hash-table-cpp-programs/)
+- [Linked List Operations](https://www.softwaretestinghelp.com/linked-list/)
+- [Asymptotic Analysis and Upper Bounds](https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/AnalAsymptotic.html)
 
 ## Task 3/3: Pre-Lecture (Videos)
 
