@@ -17,24 +17,33 @@ Measuring the speed of an operation is also known as measuring its time complexi
 
 Discuss in group whether the following statements are True or false.
 
-- [ ] Reading from an array takes one step.
-- [ ] Searching an array of N elements takes up to N steps e.g. for an array of 5 elements, the maximum number of steps is 5. For an array of 500 elements, the maximum number would take is 500.
-- [ ] Insertion of an element in an array of length N, takes (N + 1) steps in worst-case scenario.
-- [ ] Deletion of an element from an array of length N, takes N steps in worst-case scenario.
+- [T ] Reading from an array takes one step.
+- [F ] Searching an array of N elements takes up to N steps e.g. for an array of 5 elements, the maximum number of steps is 5. For an array of 500 elements, the maximum number would take is 500.
+- [ T] Insertion of an element in an array of length N, takes (N + 1) steps in worst-case scenario.
+- [T ] Deletion of an element from an array of length N, takes N steps in worst-case scenario.
 
 ## Task 2: Sets
 
 Discuss in group whether the following statements are True or false.
 
-- [ ] Reading from an an array-based set takes one step.
-- [ ] Searching an array-based set of N elements takes up to N steps.
-- [ ] Insertion of an element in an array-based set of length N, takes (2N + 1) steps steps in worst-case scenario.
-- [ ] Deletion of an element from an array-based set of length N, takes N steps in worst-case scenario.
+- [ F] Reading from an an array-based set takes one step.
+- [T ] Searching an array-based set of N elements takes up to N steps.
+- [T ] Insertion of an element in an array-based set of length N, takes (2N + 1) steps steps in worst-case scenario.
+- [ T] Deletion of an element from an array-based set of length N, takes N steps in worst-case scenario.
 
 ## Taks 3
 
 - Array-based sets are arrays with one additional constraint of barring duplicates. How does this single Rule affect efficiency?
+
+A good algorithm is correct, but a great algorithm is both correct and efficient. The most efficient algorithm is one that takes the least amount of execution time and memory usage possible while still yielding a correct answer.
+
+ref: https://www.khanacademy.org/computing/ap-computer-science-principles/algorithms-101/evaluating-algorithms/a/measuring-an-algorithms-efficiency 
+
 - Should we avoid sets because insertion is slower for sets than regular arrays?
+
+There is no "duplicate elimination" such as comparing to all existing elements. If you insert into hash set, it's really a dictionary of items by hash code. There's no duplicate checking unless there already are items with the same hash code. Given a reasonable (well-distributed) hash function, it's not that bad.
+ 
+ ref: https://stackoverflow.com/questions/6044228/java-collection-insertion-set-vs-list 
 
 ## Reference
 
