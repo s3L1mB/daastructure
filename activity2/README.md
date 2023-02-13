@@ -16,22 +16,22 @@
 
 ## Task 2
 
-- Bucket Hashing Practice. Refer to the following link.
-  https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Hashing/HashBucketPRO.html
+- Bucket Hashing Practice. Refer to the following [link](https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Hashing/HashBucketPRO.html).
 - The keys `12, 18, 13, 2, 3, 23, 5 and 15` are inserted into an initially empty hash table of length `10` using open addressing with hash function `h(k) = k mod 10` and **linear probing**. What is the resultant hash table?
 
 ## Task 3:
 
 - What is the [Birthday Paradox](http://en.wikipedia.org/wiki/Birthday_problem)?
 - Why is it generally discussed with hashing?
-- In a hash table of 9658 slots, what is the smallest number of records that must be inserted for the probability of a collision to be 61% or more? Use the calculator at this link:
-  https://opendsa-server.cs.vt.edu/ODSA/AV/Hashing/Birthday.html
+- In a hash table of 9658 slots, what is the smallest number of records that must be inserted for the probability of a collision to be 61% or more? Use the calculator at this [link](https://opendsa-server.cs.vt.edu/ODSA/AV/Hashing/Birthday.html)
 - Discuss in groups how the following program works `./src/birthday.cpp`?
 
 ## Task 4: Individual (at home)
 
 - Difference between `Separate Chaining` and `Open Addressing` collision handling techniques?
+
   https://www.geeksforgeeks.org/open-addressing-collision-handling-technique-in-hashing/
+
   https://www.geeksforgeeks.org/separate-chaining-collision-handling-technique-in-hashing/
 
 - (Bonus) Run the following program and comment on the code `./src/hashtable.cpp`
