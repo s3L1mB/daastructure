@@ -2,9 +2,9 @@
 
 ## Announcements
 
-- 20/2/23: [Review: Optional Session](https://github.com/TT00FE39-3001/lecture-2023-02-20-review)
-- 27/2/23: Lecture 5
-- 10.3.2023: Career coaching (OMA)
+- 2023-02-20: [Review: Optional Session](https://github.com/TT00FE39-3001/lecture-2023-02-20-review)
+- 2023-02-27: Lecture 5
+- 2023-03-10: Career coaching (OMA)
   - Consider: peer evaluation in social media
   - Remember: **Degree first**
 
