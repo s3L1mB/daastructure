@@ -1,6 +1,4 @@
-# Data Structures and Algorithms (sp23)
-
-## Content
+# Review
 
 ### Algorithms: Techniques/Classification
 
@@ -46,13 +44,3 @@
 - Recursion vs Iteration
   - The Top-Down Thought Process
 - Logarithms vs Exponential
-
-## Schedule
-
-- 2023-01-30: [Lecture 1](https://github.com/TT00FE39-3001/lecture1)
-- 2023-01-30: [Lecture 2](https://github.com/TT00FE39-3001/lecture2)
-- 2023-02-06: [Lecture 3](https://github.com/TT00FE39-3001/lecture3)
-- 2023-02-13: [Lecture 4](https://github.com/TT00FE39-3001/lecture4)
-- 2023-02-20: [Review -- optional Session](https://github.com/TT00FE39-3001/lecture-2023-02-20-review)
-- 2023-02-27: [Lecture 5](https://github.com/TT00FE39-3001/lecture5)
-- 2023-03-06: [Lecture 6](https://github.com/TT00FE39-3001/lecture6)

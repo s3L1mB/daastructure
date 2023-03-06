@@ -17,6 +17,11 @@ Discuss the Time and Space complexity of Binary Search Tree (BST) operations (Se
 - Explain how the code in ./src/bst.cpp works. Refer to the following link:
   https://www.geeksforgeeks.org/introduction-to-binary-search-tree-data-structure-and-algorithm-tutorials/
 
+## Task 4: Individual (at home)
+
+- Refer to te following link. Explain how In-order Traversal is used to print a binary search tree.
+  https://opendsa-server.cs.vt.edu/OpenDSA/Books/Everything/html/BinaryTreeTraversal.html#inorder-traversal
+
 ## Link(s)
 
 - https://cpp.sh/
