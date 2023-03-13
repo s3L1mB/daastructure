@@ -1,6 +1,7 @@
 # Activities
 
 ## Task 1:
+Discussed in group activity 
 
 - Refer to the following link. Discuss how Stacks based on linked lists works:
   https://www.cs.usfca.edu/~galles/visualization/StackLL.html
