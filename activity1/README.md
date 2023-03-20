@@ -2,15 +2,17 @@
 
 ## Task 1: Tree Definition
 
+Discussed in group activity 
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Binary/DefSumm.html
 
 ## Task 2
-
+Discussed in group activity  
 - Explain how the code in ./src/bt.cpp works. Refer to the following link:
   https://www.geeksforgeeks.org/binary-tree-array-implementation/
 
 ## Task 3: Tree Traversal
+Discussed in group activity 
 
 Refer to te following links. Discuss the difference between the different ways binary trees can be traversed.
 
@@ -22,8 +24,13 @@ Refer to te following links. Discuss the difference between the different ways b
 
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Binary/TravSumm.html
+
+
+  
 - Answer at least 5 questions from the following link. Make sure you write the question as well as the answer.
   https://opendsa-server.cs.vt.edu/OpenDSA/Exercises/Binary/Treeprobs.html
+
+
 
 ## Links
 
