@@ -1,16 +1,19 @@
 # Activities
 
 ## Task 1
+Discussed in group activity 
 
 Refer to the following link. Explain how the Knapsack Algorithm works:
 https://monicagranbois.com/knapsack-algorithm-visualization/
 
 ## Task 2
+Discussed in group activity 
 
 Refer to the following link. What are the difference between the brute force and the optimized solutions to the Knapsack problem.
 https://www.educative.io/blog/0-1-knapsack-problem-dynamic-solution
 
 ## Task 3
+Discussed in group activity 
 
 There are different implementations of the stair case problem in the following link:
 https://www.enjoyalgorithms.com/blog/climbing-stairs-problem
