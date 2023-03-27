@@ -1,6 +1,10 @@
 # Activities
 
+---
+
 > [Course Feedback](https://ojp.metropolia.fi/lomakkeet/1/lomake.html?code=VFQwMEZFMzktMzAwMQ==)
+
+---
 
 ## Task 1
 
