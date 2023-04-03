@@ -1,7 +1,7 @@
 // C++ program for activity selection problem.
 
 // The following implementation assumes that the activities
-// are already sorted according to their finish time
+// are already sorted according to their finish tim
 #include <iostream>
 using namespace std;
 
